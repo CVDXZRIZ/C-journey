@@ -16,4 +16,5 @@ int main (void){
     printf("===========================\n");
     printf("thine answer is %ld\n", store);
     printf("===========================");
+    return 0;
 }
